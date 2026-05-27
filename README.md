@@ -1,16 +1,27 @@
 # Hi, I'm Tuan Hoang 👋
 
-I'm a **Computer Science student** passionate about building software that solves real-world problems — from embedded systems and computer vision to full-stack and mobile applications.
+I'm a **Computer Science student** passionate about building software that solves real-world problems -- from embedded systems and computer vision to full-stack and mobile applications.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Studying Computer Science
-- 🛠️ I enjoy working across the stack — hardware, backend, and mobile
+- 🎓 Studying Computer Science at Cal Poly SLO
+- 🛠️ I enjoy working across the stack -- hardware, backend, and mobile
 - 🌱 Currently deepening my knowledge in software engineering and system design
 - 💬 Ask me about Python, C++, computer vision, or embedded systems
-- 📫 How to reach me: [LinkedIn](https://linkedin.com) | tuanhoang0117@github
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tuanhoang0117/) | tuanhoang0117@github
+
+---
+
+## 🎓 Education
+
+**California Polytechnic State University, San Luis Obispo** -- San Luis Obispo, CA<br>
+B.S. Computer Science | Expected May 2028
+
+**Folsom Lake College** -- Folsom, CA<br>
+A.S. Computer Science | A.A. Math and Physics | GPA: 3.7 / 4.0 | Expected May 2026<br>
+Coursework: Object Oriented Programming (C++), Discrete Structures, Data Structures, Algorithm Design / Problem Solving, Multivariable Calculus, Linear Algebra, Differential Equations
 
 ---
 
@@ -49,6 +60,31 @@ Console-based contact manager built in C++ with full CRUD operations, search fun
 
 ---
 
+## 🏆 Hackathons
+
+### 🏐 [HaywardHacks 2026 -- Volleyball Live Stat Tracker](https://github.com/tuanhoang0117/HaywardHacks2026)
+A local-first web app for tracking volleyball stats in real time. Built a computer-vision-assisted pipeline using OpenCV to detect players and auto-populate jersey numbers from match footage, plus a fast manual stat entry dashboard for coaches.
+- **Stack:** Python, Jupyter Notebook, TypeScript, OpenCV
+- **Role:** Co-developer (repo owner), built CV pipeline and analytics layer
+
+### 🏠 [SacHacks -- ZIP Housing Investment Platform](https://github.com/PancakeNinja64/SacHacks)
+Decision-support platform for strategic single-family housing investment at the U.S. ZIP code level. Built a choropleth / heatmap map interface with drilldown analytics and a weighted composite scoring model over demographic data.
+- **Stack:** Next.js, React, Mapbox GL, Recharts, JavaScript
+- **Role:** Contributor (27 commits) -- built map layers, UI polish, and data pipeline integration
+- **Live demo:** [sac-hacks-nine.vercel.app](https://sac-hacks-nine.vercel.app)
+
+### 🏋️ [HornetHacks Fall 2025 -- Student Athlete Wellness AI](https://github.com/PancakeNinja64/HornetHacks_FALL2025)
+Comprehensive web app for student athletes (ages 14-22) to track and optimize wellness through sleep monitoring, diet tracking, and exercise progress visualization with AI-powered recommendations.
+- **Stack:** TypeScript, Python, Next.js, CSS
+- **Role:** Contributor -- built sleep tracking charts, AI recommendation integration, and dashboard components
+
+### 🥗 [creamTeamSprout -- Food & Nutrition RAG App](https://github.com/PancakeNinja64/creamTeamSprout)
+Food and nutrition app powered by a RAG (Retrieval-Augmented Generation) pipeline. FastAPI backend with Wikipedia ingestion into ChromaDB, multi-turn chat history, and an Expo React Native frontend.
+- **Stack:** TypeScript, Python, FastAPI, ChromaDB, Expo React Native
+- **Role:** Contributor -- worked on frontend chat UI and backend RAG integration
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -58,4 +94,4 @@ Console-based contact manager built in C++ with full CRUD operations, search fun
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+*"Code is like humor. When you have to explain it, it's bad." -- Cory House*
