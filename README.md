@@ -82,6 +82,11 @@ Comprehensive web app for student athletes (ages 14-22) to track and optimize we
 Food and nutrition app powered by a RAG (Retrieval-Augmented Generation) pipeline. FastAPI backend with Wikipedia ingestion into ChromaDB, multi-turn chat history, and an Expo React Native frontend.
 - **Stack:** TypeScript, Python, FastAPI, ChromaDB, Expo React Native
 - **Role:** Contributor -- worked on frontend chat UI and backend RAG integration
+### 💊 [QuackHacks 2026 -- OculusMD: Assisted Medication Safety](https://github.com/tuanhoang0117/QuackHacks-3-2026)
+AI-powered medication safety copilot that physically scans pill trays, detects dangerous drug interactions, and guides patients through post-discharge medication management with spoken safety alerts.
+- **Stack:** TypeScript, Python, React Native, FastAPI, MongoDB, Gemini 2.5 Flash, ElevenLabs, Solana
+- **Role:** Co-developer — built backend safety engine, Gemini integration, and Solana audit trail
+- **Pitch Deck:** [pitch.com/v/quackhacks-6fkac6](https://pitch.com/v/quackhacks-6fkac6)
 
 ---
 
