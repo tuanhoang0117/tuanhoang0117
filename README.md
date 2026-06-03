@@ -88,15 +88,4 @@ AI-powered medication safety copilot that physically scans pill trays, detects d
 - **Role:** Co-developer — built backend safety engine, Gemini integration, and Solana audit trail
 - **Pitch Deck:** [pitch.com/v/quackhacks-6fkac6](https://pitch.com/v/quackhacks-6fkac6)
 
----
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanhoang0117&show_icons=true&theme=dark&hide_border=true" alt="Tuan's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanhoang0117&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
----
-
-*"Code is like humor. When you have to explain it, it's bad." -- Cory House*
