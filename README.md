@@ -20,7 +20,7 @@ I'm a **Computer Science student** passionate about building software that solve
 B.S. Computer Science | Expected May 2028
 
 **Folsom Lake College** -- Folsom, CA<br>
-A.S. Computer Science | A.A. Math and Physics | GPA: 3.7 / 4.0 | Expected May 2026<br>
+A.S. Computer Science | A.A. Math and Physics | GPA: 3.7 / 4.0 | May 2026<br>
 Coursework: Object Oriented Programming (C++), Discrete Structures, Data Structures, Algorithm Design / Problem Solving, Multivariable Calculus, Linear Algebra, Differential Equations
 
 ---
