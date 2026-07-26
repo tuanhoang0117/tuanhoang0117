@@ -43,7 +43,7 @@ Coursework: Object Oriented Programming (C++), Discrete Structures, Data Structu
 
 ## 📂 Featured Projects
 
-### 🔬 [OpenCV Crowd Density](https://github.com/tuanhoang0117/OpenCV-Crowd-Density)
+### 👁️ [OpenCV Crowd Density](https://github.com/tuanhoang0117/OpenCV-Crowd-Density)
 Real-time crowd density estimation using OpenCV and computer vision. Processes video frames to analyze and visualize pedestrian flow patterns.
 - **Stack:** Python, OpenCV
 - **Topics:** Computer Vision, Image Processing, Machine Learning
